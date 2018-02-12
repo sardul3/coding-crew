@@ -1,0 +1,113 @@
+Alright!
+
+
+First let's download atom and git for windows
+
+
+DO THESE ON YOUR OWN! Just google them!
+
+
+
+Then, lets login to our github account!
+
+For now, I am using Suvash's
+
+
+Then, search for "coding-crew"
+
+click on clone or download button
+
+copy the link
+
+now, open git
+
+move into Desktop by typing cd Desktop
+once there, type 
+			git clone https://github.com/sardul3/coding-crew.git,
+					the copied address
+Since, I already have one, it didn't work!
+
+LOL
+
+Now, open the folder from atom
+
+So, now you can edit the existing files, make changes and do whatever you want!
+
+Lets make some changes!
+
+After saving the file, move onto the lower right corner of atom!
+
+click on the last icon that says 1 file, which means change has been detected 
+in one of the files
+
+click STAGE ALL
+
+Then, include a commit message!
+
+Something helpful. The message itself should make it clear what you changed in the project!
+
+Watch and learn!
+
+lol, again!
+
+Press COMMIT
+
+After that, there will be a number beside the arrows
+
+Click on that icon
+
+CLick PUSH
+
+And, we are done!
+
+Now, let's see what we just did!
+
+The file is updated!
+
+
+
+Move over to settings, scroll down to GITHUB PAGES
+
+Click on the link!
+
+And, there we go!
+
+
+Now, everyone add their portion as soon as possible!
+
+Thank you!
+
+
+Peace out, hommies!
+
+LOL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
