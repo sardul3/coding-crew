@@ -1,4 +1,4 @@
-#sagar{
+#Sagar{
   background-color: #42A5F5;
   margin: 5%;
 }
@@ -8,11 +8,14 @@
 }
 
 #title{
-  float: right;
+  font-size: 50px;
+  font-family: monospace;
 
 }
 
 #description{
   float: right;
+  font-size: 35px;
+  font-family: cursive;
 
 }
