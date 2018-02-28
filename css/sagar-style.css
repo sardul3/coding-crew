@@ -1,0 +1,18 @@
+#sagar{
+  background-color: #42A5F5;
+  margin: 5%;
+}
+#profile-pic{
+  height: 100px;
+  border-radius: 50%;
+}
+
+#title{
+  float: right;
+
+}
+
+#description{
+  float: right;
+
+}
